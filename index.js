@@ -2,3 +2,4 @@
 'feature login'
 'edit info user'
 'sent email'
+'delete user'
